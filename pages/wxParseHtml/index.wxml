@@ -1,0 +1,6 @@
+<!--pages/wxParseHtml/index.wxml-->
+<import src="../../wxParse/wxParse.wxml" />
+
+<view>
+  <template is="wxParse" data="{{wxParseData:insertData.nodes}}" />
+</view>

@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="container">
+
+ <navigator url="/pages/richText/index">
+ <button>原生富文本解析</button>
+ </navigator>
+  <navigator url="/pages/wxParseHtml/index">
+ <button>wxParse富文本解析</button>
+ </navigator>
+
+ 
+
+</view>
